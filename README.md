@@ -10,4 +10,4 @@
 ## Touch Me
 
 - Blog: [xiaozhu.dev](https://xiaozhu.dev)
-- Github: [mopig]((https://github.com/mopig))
+- Github: [mopig](https://github.com/mopig)
